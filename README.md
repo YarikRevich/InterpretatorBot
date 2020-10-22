@@ -1,5 +1,5 @@
 # InterpretatorBot
-Special bot via what you can get the explanation of some Ukrainian words. It's my first written bot on Go
+Special bot via what you can get the explanation of some Ukrainian words. It's my first written bot on Go ;)
 
 #How to run
 -------------------------
